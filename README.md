@@ -16,3 +16,7 @@ Netflix Clone. Search and find your favorite film with coming from TMDB API. Als
 👉 Deploying a React app with Firebase Hosting 🌐
 
 👉 Real-time database with Firebase’s Firestore 🔥
+
+
+
+# EXAMPLE
