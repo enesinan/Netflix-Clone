@@ -20,3 +20,8 @@ Netflix Clone. Search and find your favorite film with coming from TMDB API. Als
 
 
 # EXAMPLE
+
+
+# CONTRIBUTION
+ 
+ Feel free to contribute by adding new templates to this project.
