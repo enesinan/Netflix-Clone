@@ -3,7 +3,7 @@
 
 
 # 🟡 Netflix-Clone
-Netflix Clone. Search and find your favorite film with coming from TMDB API. Also you can watch the trailers. 💬
+Netflix Clone. Search and find your favorite movie with coming from TMDB API. Also you can watch the trailers. 📺
 
 # ⚡ LIVE  
 
