@@ -21,6 +21,14 @@ Netflix Clone. Search and find your favorite movie with coming from TMDB API. Al
 
 # EXAMPLE
 
+![1](https://user-images.githubusercontent.com/72499839/120932547-f9362480-c6fe-11eb-8424-ccdc063e9bff.png)
+
+
+![2](https://user-images.githubusercontent.com/72499839/120932550-fc311500-c6fe-11eb-9444-f5d200831597.png)
+
+
+![3](https://user-images.githubusercontent.com/72499839/120932552-fe936f00-c6fe-11eb-9802-49a968212807.png)
+
 
 # CONTRIBUTION
  
