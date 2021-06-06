@@ -8,3 +8,11 @@ Netflix Clone. Search and find your favorite film with coming from TMDB API. Als
 # ⚡ LIVE  
 
  * <a href="https://netflixclone-43aa9.web.app/">To check out the live demo of this app</a></br> </br> 
+
+# ABOUT
+
+👉 Building a Netflix Clone App 💻
+
+👉 Deploying a React app with Firebase Hosting 🌐
+
+👉 Real-time database with Firebase’s Firestore 🔥
